@@ -1,0 +1,12 @@
+{
+    "name": "root/framework",
+    "authors": [
+        {
+            "name": "trubetskoy",
+            "email": "and.trubetskoy@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/http-foundation": "^3.3"
+    }
+}
